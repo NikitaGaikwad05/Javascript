@@ -6,3 +6,4 @@ const nynum=parseFloat(mystring);
 console.log(nynum);
 const str="hello " +"world";//concatenation
 console.log(str);
+
