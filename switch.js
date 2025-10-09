@@ -21,7 +21,8 @@ switch(day)
             case "sunday":
                 console.log("sunday");
                 break;
-            default:
+    default:
                 console.log("you enter the wrong choice");
+
 
 }
