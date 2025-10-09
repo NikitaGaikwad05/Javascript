@@ -19,3 +19,4 @@ console.log(typeof String(str));// this is used to convert the number into strin
 var myName='nikita';
 console.log(myName);
 
+
