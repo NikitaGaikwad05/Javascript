@@ -1,9 +1,10 @@
 var areaShapes="Square";
 var a=5;
 var b=10;
+var area;
 switch(areaShapes){
   case "Square":
-        var area=a*a;
+        area=a*a;
         console.log("area of suare",area);
         break;
   case "circle":
