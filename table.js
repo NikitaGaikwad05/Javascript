@@ -1,4 +1,6 @@
 //5 table
-for(var i=5;i<=50;i+=5){
-   console.log("5*i=",i);
+var num=1;
+while(num<=10){
+   console.log("5 *"+num+" = "+5*num)
+   num++;   
 }
