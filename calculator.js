@@ -26,3 +26,4 @@ console.log(calculator(5,4,"-"));
 console.log(calculator(4,5,"*"));
 
 console.log(calculator(25,5,"/"));
+
