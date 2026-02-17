@@ -1,3 +1,5 @@
+// calculator program by using javascript.
+
 function calculator(num1,num2,op){
     let result;
     switch(op){
@@ -26,5 +28,6 @@ console.log(calculator(5,4,"-"));
 console.log(calculator(4,5,"*"));
 
 console.log(calculator(25,5,"/"));
+
 
 
