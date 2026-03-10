@@ -19,3 +19,4 @@ switch(areaSquare){
     default:
         console.log("youn enter the wrong choice");
 }
+
